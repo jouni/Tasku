@@ -1,0 +1,3 @@
+Project collaboration for notes, tasks and files, running on OS X. Using the Seep library/framework, running on Node.js and MongoDB.
+
+Aiming for team synchronization for each part of the app, Dropbox like.
