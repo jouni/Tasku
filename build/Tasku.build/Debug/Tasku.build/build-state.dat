@@ -1,0 +1,451 @@
+TTasku
+v7
+r0
+t329086177.175236
+cCheck dependencies
+cProcessInfoPlistFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist Tasku-Info.plist
+cCpResource build/Debug/Tasku.app/Contents/Resources/server.js server.js
+cCopyStringsFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib
+cCpResource build/Debug/Tasku.app/Contents/Resources/Tasku.icns Tasku.icns
+cCpResource build/Debug/Tasku.app/Contents/Resources/lib lib
+cCpResource build/Debug/Tasku.app/Contents/Resources/app app
+cCpResource build/Debug/Tasku.app/Contents/Resources/tasku-mongod tasku-mongod
+cCpResource build/Debug/Tasku.app/Contents/Resources/tasku-node tasku-node
+cProcessPCH /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch Tasku_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cOSACompile TaskuAppDelegate.applescript
+cCompileC build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o /Users/jouni/Documents/Work/Personal/Tasku/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o /Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku normal x86_64
+cTouch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppleScriptObjC.framework/Headers/AppleScriptObjC.h
+c000000004AC4660B0000000000000100
+t1254385163
+s256
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/AppleScriptObjC.framework/AppleScriptObjC
+c000000004B73C384000000000004AA20
+t1265877892
+s305696
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004D85B91400000000005C2FC0
+t1300609300
+s6041536
+
+N/Users/jouni/Documents/Work/Personal/Tasku/English.lproj/InfoPlist.strings
+c000000004DE72A37000000000000005C
+t1306995255
+s92
+
+N/Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib
+c000000004DEB5DF70000000000010778
+t1307270647
+s67448
+
+N/Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.h
+c000000004DE87B6600000000000000AE
+t1307081574
+s174
+i<Cocoa/Cocoa.h>
+
+N/Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m
+c000000004DE87D0E000000000000015E
+t1307081998
+s350
+i"MainWindowDelegate.h"
+
+N/Users/jouni/Documents/Work/Personal/Tasku/Tasku.icns
+c000000004DEBEF1E0000000000041F4D
+t1307307806
+s270157
+
+N/Users/jouni/Documents/Work/Personal/Tasku/TaskuAppDelegate.applescript
+c000000004DED33F90000000000000D9C
+t1307390969
+s3484
+
+N/Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch
+c000000004DE72A37000000000000008D
+t1306995255
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/jouni/Documents/Work/Personal/Tasku/app
+c000000004DED3D5C0000000000000110
+t1307393372
+s272
+
+N/Users/jouni/Documents/Work/Personal/Tasku/app/app.js
+c000000004DE3282E000000000000021F
+t1306732590
+s543
+
+N/Users/jouni/Documents/Work/Personal/Tasku/app/public/index.html
+c000000004DE32B9900000000000002AC
+t1306733465
+s684
+
+N/Users/jouni/Documents/Work/Personal/Tasku/app/public/tasku.css
+c000000004DE328C0000000000000015D
+t1306732736
+s349
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
+t1307393377
+s102
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist
+t1307045338
+s1340
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku
+t1307082000
+s10424
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/PkgInfo
+t1307045338
+s8
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306995588
+s92
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/MainMenu.nib
+t1307270651
+s9286
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/Tasku.icns
+t1307307809
+s270157
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt
+t1307390972
+s16630
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app
+t1307393377
+s272
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app.js
+t2
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/custom-mongod
+t2
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/custom-node
+t2
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/index.html
+t1307012213
+s684
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/lib
+t1307012832
+s1190
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/node.log
+t1307384642
+s707
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/server.js
+t1307012682
+s294
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/tasku-mongod
+t1307109800
+s10575936
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/tasku-node
+t1307109800
+s6975600
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/tasku.css
+t1307012213
+s349
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o
+t1307082000
+s15996
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/Tasku.LinkFileList
+c000000004DE8756200000000000000E6
+t1307080034
+s230
+
+N/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o
+t1306995610
+s6632
+
+N/Users/jouni/Documents/Work/Personal/Tasku/custom-mongod
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/custom-node
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/lib
+c000000004D6F30D200000000000004A6
+t1299132626
+s1190
+
+N/Users/jouni/Documents/Work/Personal/Tasku/main.m
+c000000004DE72A37000000000000015E
+t1306995255
+s350
+i<Cocoa/Cocoa.h>
+i<AppleScriptObjC/AppleScriptObjC.h>
+
+N/Users/jouni/Documents/Work/Personal/Tasku/node.log
+c000000004DED19CD0000000000000000
+t1307384269
+s0
+
+N/Users/jouni/Documents/Work/Personal/Tasku/server.js
+c000000004DE32B920000000000000126
+t1306733458
+s294
+
+N/Users/jouni/Documents/Work/Personal/Tasku/tasku-mongod
+c000000004D9C1DEE0000000000A16040
+t1302076910
+s10575936
+
+N/Users/jouni/Documents/Work/Personal/Tasku/tasku-node
+c000000004D7674FE00000000006A7070
+t1299608830
+s6975600
+
+N/var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch
+t1306995608
+s54310672
+
+NTasku-Info.plist
+c000000004DE7EDDA00000000000003DA
+t1307045338
+s986
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329086177#329086177#0(120"[WARN]warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_641(22@113"warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_64329086177#18446744073709551615#0#0(1@0"0(0#1#0"8609143936#0"0#
+
+CCompileC build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o /Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328774800.183824
+e328774800.369700
+r1
+xCompileC
+xbuild/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o
+x/Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m328774800#328774800#0(0"0(0#0#63"/Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m8626830656#1497"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-generated-files.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-own-target-headers.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-all-target-headers.hmap -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-project-headers.hmap -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -I/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/include -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources/x86_64 -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources -include /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch -c /Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m -o /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o0#
+
+CCompileC build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o /Users/jouni/Documents/Work/Personal/Tasku/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328688408.583928
+e328688410.753689
+r1
+xCompileC
+xbuild/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o
+x/Users/jouni/Documents/Work/Personal/Tasku/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jouni/Documents/Work/Personal/Tasku/main.m328688408#328688410#0(0"0(0#0#49"/Users/jouni/Documents/Work/Personal/Tasku/main.m8594781728#1469"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-generated-files.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-own-target-headers.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-all-target-headers.hmap -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-project-headers.hmap -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -I/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/include -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources/x86_64 -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources -include /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch -c /Users/jouni/Documents/Work/Personal/Tasku/main.m -o /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib
+s328963450.766769
+e328963451.202402
+r1
+xCompileXIB
+x/Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328963450#328963451#0(0"0(0#0#69"/Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib30962681237012596#374"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jouni/Documents/Work/Personal/Tasku/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328688386.593999
+e328688388.292919
+r1
+xCopyStringsFile
+x/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328688386#328688388#0(0"0(0#0#74"/Users/jouni/Documents/Work/Personal/Tasku/English.lproj/InfoPlist.strings8604505184#372"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/Tasku.icns Tasku.icns
+s329000609.664411
+e329000609.678024
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/Tasku.icns
+xTasku.icns
+lSLF07#2@15"Copy Tasku.icns329000609#329000609#0(0"0(0#0#53"/Users/jouni/Documents/Work/Personal/Tasku/Tasku.icns8598133792#350"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/Tasku.icns /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/app app
+s329086177.122740
+e329086177.166030
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/app
+xapp
+lSLF07#2@8"Copy app329086177#329086177#0(0"0(0#0#46"/Users/jouni/Documents/Work/Personal/Tasku/app8607212544#343"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/app /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/app.js app/app.js
+r0
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/custom-mongod custom-mongod
+s328802565.999265
+e328802566.066800
+r0
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/custom-mongod
+xcustom-mongod
+opbxcp: custom-mongod: No such file or directory
+lSLF07#2@18"Copy custom-mongod328802566#328802566#0(48"pbxcp: custom-mongod: No such file or directory1(4@47"pbxcp: custom-mongod: No such file or directory328802566#18446744073709551615#0#0(6@0"328802566#0#0#0#0#0"0(0#0#56"/Users/jouni/Documents/Work/Personal/Tasku/custom-mongod27303270317097068#353"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/custom-mongod /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources1#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/custom-node custom-node
+s328802566.001226
+e328802566.067779
+r0
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/custom-node
+xcustom-node
+opbxcp: custom-node: No such file or directory
+lSLF07#2@16"Copy custom-node328802566#328802566#0(46"pbxcp: custom-node: No such file or directory1(4@45"pbxcp: custom-node: No such file or directory328802566#18446744073709551615#0#0(6@0"328802566#0#0#0#0#0"0(0#0#54"/Users/jouni/Documents/Work/Personal/Tasku/custom-node8601198240#351"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/custom-node /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources1#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/index.html app/public/index.html
+s328705013.847929
+e328705013.883589
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/index.html
+xapp/public/index.html
+lSLF07#2@26"Copy app/public/index.html328705013#328705013#0(0"0(0#0#64"/Users/jouni/Documents/Work/Personal/Tasku/app/public/index.html8632688736#361"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/app/public/index.html /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/lib lib
+s328705632.289385
+e328705632.319903
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/lib
+xlib
+lSLF07#2@8"Copy lib328705632#328705632#0(0"0(0#0#46"/Users/jouni/Documents/Work/Personal/Tasku/lib8630749440#343"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/lib /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/node.log node.log
+s329077193.878324
+e329077193.886886
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/node.log
+xnode.log
+lSLF07#2@13"Copy node.log329077193#329077193#0(0"0(0#0#51"/Users/jouni/Documents/Work/Personal/Tasku/node.log8606331104#348"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/node.log /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/server.js server.js
+s328705482.970072
+e328705482.977800
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/server.js
+xserver.js
+lSLF07#2@14"Copy server.js328705482#328705482#0(0"0(0#0#52"/Users/jouni/Documents/Work/Personal/Tasku/server.js27303270317097068#349"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/server.js /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/tasku-mongod tasku-mongod
+s328802599.392982
+e328802600.378138
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/tasku-mongod
+xtasku-mongod
+lSLF07#2@17"Copy tasku-mongod328802599#328802600#0(0"0(0#0#55"/Users/jouni/Documents/Work/Personal/Tasku/tasku-mongod8605372352#352"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/tasku-mongod /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/tasku-node tasku-node
+s328802599.394425
+e328802600.720838
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/tasku-node
+xtasku-node
+lSLF07#2@15"Copy tasku-node328802599#328802600#0(0"0(0#0#53"/Users/jouni/Documents/Work/Personal/Tasku/tasku-node8605339936#350"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/tasku-node /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CCpResource build/Debug/Tasku.app/Contents/Resources/tasku.css app/public/tasku.css
+s328705013.849493
+e328705013.883895
+r1
+xCpResource
+xbuild/Debug/Tasku.app/Contents/Resources/tasku.css
+xapp/public/tasku.css
+lSLF07#2@25"Copy app/public/tasku.css328705013#328705013#0(0"0(0#0#63"/Users/jouni/Documents/Work/Personal/Tasku/app/public/tasku.css8632644192#360"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/app/public/tasku.css /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+
+CLd /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku normal x86_64
+s328774800.369822
+e328774800.431526
+r1
+xLd
+x/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku328774800#328774800#0(0"0(0#0#0"8621210848#597"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -filelist /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/Tasku.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -framework WebKit -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku0#
+
+COSACompile TaskuAppDelegate.applescript
+s329083771.152479
+e329083772.083736
+r1
+xOSACompile
+xTaskuAppDelegate.applescript
+o2011-06-06 23:09:31.751 osacompile[27555:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@36"Compile TaskuAppDelegate.applescript329083771#329083772#0(546"2011-06-06 23:09:31.751 osacompile[27555:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#0"8609316640#230"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/osacompile -l AppleScript -d -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt TaskuAppDelegate.applescript0#
+
+CProcessInfoPlistFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist Tasku-Info.plist
+s328738138.802443
+e328738138.823205
+r1
+xProcessInfoPlistFile
+x/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist
+xTasku-Info.plist
+lSLF07#2@24"Process Tasku-Info.plist328738138#328738138#0(0"0(0#0#59"/Users/jouni/Documents/Work/Personal/Tasku/Tasku-Info.plist8599615328#316"    cd /Users/jouni/Documents/Work/Personal/Tasku    builtin-infoPlistUtility Tasku-Info.plist -genpkginfo /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch Tasku_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328688388.953837
+e328688408.555415
+r1
+xProcessPCH
+x/var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch
+xTasku_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Tasku_Prefix.pch328688388#328688408#0(0"0(0#0#59"/Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch8594945408#1373"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-generated-files.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-own-target-headers.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-all-target-headers.hmap -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-project-headers.hmap -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -I/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/include -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources/x86_64 -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources -c /Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch -o /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch0#
+
+CTouch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
+s329086177.166629
+e329086177.175177
+r1
+xTouch
+x/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
+lSLF07#2@70"Touch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app329086177#329086177#0(0"0(0#0#0"8606357536#137"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/touch -c /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app0#
+

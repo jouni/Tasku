@@ -1,0 +1,104 @@
+.task,
+.add-task {
+	height: 24px;
+	padding: 2px 0;
+	position: relative;
+	}
+
+.task {
+	border-bottom: 1px solid #ddd;
+	padding: 2px 0;
+	}
+
+.task .s-input,
+.add-task .s-input {
+	position: absolute;
+	left: 34px;
+	right: 0;
+	-webkit-appearance: none;
+	font-family: "Lucida Grande", "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	}
+
+.task .s-input {
+	border: none;
+	background: transparent;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	}
+
+.task.done .s-input {
+	text-decoration: line-through;
+	color: #ccc;
+	}
+
+.delete {
+	position: absolute;
+	z-index: 1;
+	right: 13px;
+	top: 5px;
+	visibility: hidden;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	background: rgba(0,0,0,.2);
+	border: none;
+	font-family: helvetica;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	height: 18px;
+	line-height: 18px;
+	margin: 0px;
+	padding: 0px;
+	text-shadow: none;
+	width: 18px;
+	}
+
+.delete:hover {
+	background: rgba(0,0,0,.4);
+	}
+
+.delete:active {
+	background: rgba(0,0,0,.5);
+	}
+
+.task:hover .delete {
+	visibility: visible;
+	}
+
+.s-checkbox.done {
+	position: absolute;
+	left: 13px;
+	top: 8px;
+	}
+
+.add-task .s-button {
+	position: absolute;
+	right: 14px;
+	width: 42px;
+	font-size: 18px;
+	padding: 2px;
+	}
+
+.add-task {
+	border-bottom: 1px solid #ddd;
+	background: #fff;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	position: relative;
+	z-index: 1;
+	}
+
+.add-task .s-input {
+	background: transparent;
+	border: none;
+	}
+
+.add-task .s-input:focus {
+	-webkit-box-shadow: none;
+	}
+
+.task.hover {
+	background: #ddd;
+	}

@@ -1,0 +1,227 @@
+INFO: Added new Seep application prototype to path 'app'
+Seep server running at port 9012
+9 Jun 21:28:35 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+9 Jun 21:28:35 - socket.io ready - accepting connections
+9 Jun 21:28:36 - Initializing client with transport "websocket"
+9 Jun 21:28:36 - Client 00778525834903121 connected
+
+Creating a new app for path 'app'
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Trying to push changes for application with no connection 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:40 GMT '- App(0) received messages' { time: 1307644120001,
+  messages: 
+   { sync: 
+      { '1': [Object],
+        '2': [Object],
+        '3': [Object],
+        '4': [Object],
+        '5': [Object],
+        '6': [Object],
+        '7': [Object],
+        '8': [Object],
+        '9': [Object] },
+     events: [ [Object] ] } }
+Synching property for widget 1 : pixelWidth : 180 for application id 0
+Synching property for widget 1 : pixelHeight : 526 for application id 0
+Synching property for widget 2 : pixelWidth : 180 for application id 0
+Synching property for widget 2 : pixelHeight : 21 for application id 0
+Synching property for widget 3 : pixelWidth : 180 for application id 0
+Synching property for widget 3 : pixelHeight : 21 for application id 0
+Synching property for widget 4 : pixelWidth : 180 for application id 0
+Synching property for widget 4 : pixelHeight : 21 for application id 0
+Synching property for widget 5 : pixelWidth : 669 for application id 0
+Synching property for widget 5 : pixelHeight : 526 for application id 0
+Synching property for widget 6 : pixelWidth : 668 for application id 0
+Synching property for widget 6 : pixelHeight : 29 for application id 0
+Synching property for widget 7 : pixelWidth : 668 for application id 0
+Synching property for widget 7 : pixelHeight : 29 for application id 0
+Synching property for widget 8 : pixelWidth : 634 for application id 0
+Synching property for widget 8 : pixelHeight : 22 for application id 0
+Synching property for widget 9 : pixelWidth : 42 for application id 0
+Synching property for widget 9 : pixelHeight : 24 for application id 0
+Event received for widget 3 : click for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:41 GMT '- App(0) received messages' { time: 1307644121479,
+  messages: 
+   { sync: 
+      { '6': [Object],
+        '7': [Object],
+        '8': [Object],
+        '9': [Object] },
+     events: [ [Object] ] } }
+Synching property for widget 6 : pixelWidth : 0 for application id 0
+Synching property for widget 6 : pixelHeight : 0 for application id 0
+Synching property for widget 7 : pixelWidth : 0 for application id 0
+Synching property for widget 7 : pixelHeight : 0 for application id 0
+Synching property for widget 8 : pixelWidth : 0 for application id 0
+Synching property for widget 8 : pixelHeight : 0 for application id 0
+Synching property for widget 9 : pixelWidth : 0 for application id 0
+Synching property for widget 9 : pixelHeight : 0 for application id 0
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:41 GMT '- App(0) received messages' { time: 1307644121846,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:42 GMT '- App(0) received messages' { time: 1307644122038,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:42 GMT '- App(0) received messages' { time: 1307644122414,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:42 GMT '- App(0) received messages' { time: 1307644122814,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:43 GMT '- App(0) received messages' { time: 1307644123174,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:43 GMT '- App(0) received messages' { time: 1307644123518,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:44 GMT '- App(0) received messages' { time: 1307644124950,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:46 GMT '- App(0) received messages' { time: 1307644126951,
+  messages: { sync: { '8': [Object] }, events: [ [Object] ] } }
+Synching property for widget 8 : text :  for application id 0
+Event received for widget 8 : keydown for application id 0
+Thu, 09 Jun 2011 18:28:47 GMT '- App(0) received messages' { time: 1307644127054,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 8 : keydown for application id 0
+Thu, 09 Jun 2011 18:28:47 GMT '- App(0) received messages' { time: 1307644127550,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:47 GMT '- App(0) received messages' { time: 1307644127925,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:48 GMT '- App(0) received messages' { time: 1307644128214,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:48 GMT '- App(0) received messages' { time: 1307644128469,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:48 GMT '- App(0) received messages' { time: 1307644128630,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:48 GMT '- App(0) received messages' { time: 1307644128877,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:49 GMT '- App(0) received messages' { time: 1307644129014,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:49 GMT '- App(0) received messages' { time: 1307644129302,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:49 GMT '- App(0) received messages' { time: 1307644129437,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:49 GMT '- App(0) received messages' { time: 1307644129717,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:49 GMT '- App(0) received messages' { time: 1307644129862,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:50 GMT '- App(0) received messages' { time: 1307644130141,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:50 GMT '- App(0) received messages' { time: 1307644130293,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:50 GMT '- App(0) received messages' { time: 1307644130878,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:51 GMT '- App(0) received messages' { time: 1307644131101,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:51 GMT '- App(0) received messages' { time: 1307644131909,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:52 GMT '- App(0) received messages' { time: 1307644132053,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:52 GMT '- App(0) received messages' { time: 1307644132293,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:52 GMT '- App(0) received messages' { time: 1307644132437,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:52 GMT '- App(0) received messages' { time: 1307644132701,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:52 GMT '- App(0) received messages' { time: 1307644132853,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:53 GMT '- App(0) received messages' { time: 1307644133085,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:53 GMT '- App(0) received messages' { time: 1307644133221,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+Pushing update (id, connection id) ( 0 , 00778525834903121 )
+Thu, 09 Jun 2011 18:28:53 GMT '- App(0) received messages' { time: 1307644133566,
+  messages: { sync: {}, events: [ [Object] ] } }
+Event received for widget 1 : keydown for application id 0
+10 Jun 21:30:48 - Client 00778525834903121 disconnected
