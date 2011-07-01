@@ -1,8 +1,8 @@
-8d408cc844eb28c1a13725738a51e8df 6c55934e4df6bb066fc0e95107fb233b ffffffffffffffffffffffffffffffff 102 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
-00000000000000000000000000000000 4f17095cce681a399de2b89f35fadd23 ffffffffffffffffffffffffffffffff 272 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app
+8d408cc844f018bca13725738a51e8dd 6c55934e4df6bb066fc0e95107fb233b ffffffffffffffffffffffffffffffff 102 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
+00000000000000000000000000000000 4f17095cce681a399de2b89f35fadd23 ffffffffffffffffffffffffffffffff 306 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app
 f2648dc461764b94cad01712ab3735f8 6dbf57b9034e0d0bb9c6302d01e80d95 ffffffffffffffffffffffffffffffff 15996 /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o
 f2648dc4665501c0cad01712ab373456 596c757c374e8fa43938eb60f10077c4 ffffffffffffffffffffffffffffffff 6632 /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/main.o
-000000004ded33f90000000000000d9c 30536f8493189d5c5b46e6161670bcde ffffffffffffffffffffffffffffffff 16630 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt
+000000004df603840000000000000d9e 30536f8493189d5c5b46e6161670bcde ffffffffffffffffffffffffffffffff 16566 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt
 34d322c534533d3180fedb4df0b05b11 1159eed4773ae24c03bb7c7bfe72dd01 ffffffffffffffffffffffffffffffff 10424 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku
 000000000d23805f0000000000000168 f2648dc42c9167cbcad01712ab373485 ffffffffffffffffffffffffffffffff 54310672 /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch
 00000000000000000000000000000000 3d0597cfee52eb72e57c3bb3d59f359f ffffffffffffffffffffffffffffffff 6975600 /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/tasku-node

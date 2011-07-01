@@ -1,0 +1,35 @@
+.new-user {
+	padding: 12px 16px;
+	width: 330px;
+	}
+
+.new-user .row {
+	margin-bottom: 4px;
+	}
+
+.new-user .s-input {
+	width: 100%;
+	}
+
+.new-user .s-text {
+	margin-bottom: 10px;
+	}
+
+.new-user h1 {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: 200;
+	margin-bottom: 16px;
+	margin-top: 10px;
+	}
+
+.new-user em {
+	font-size: 0.8em;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	}
+
+.new-user .s-button {
+	float: right;
+	}

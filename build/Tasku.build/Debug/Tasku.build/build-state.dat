@@ -1,7 +1,7 @@
 TTasku
 v7
 r0
-t329086177.175236
+t329683916.743239
 cCheck dependencies
 cProcessInfoPlistFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist Tasku-Info.plist
 cCpResource build/Debug/Tasku.app/Contents/Resources/server.js server.js
@@ -77,9 +77,9 @@ t1307307806
 s270157
 
 N/Users/jouni/Documents/Work/Personal/Tasku/TaskuAppDelegate.applescript
-c000000004DED33F90000000000000D9C
-t1307390969
-s3484
+c000000004DF603840000000000000D9E
+t1307968388
+s3486
 
 N/Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch
 c000000004DE72A37000000000000008D
@@ -88,9 +88,9 @@ s141
 i<Cocoa/Cocoa.h>
 
 N/Users/jouni/Documents/Work/Personal/Tasku/app
-c000000004DED3D5C0000000000000110
-t1307393372
-s272
+c000000004DF5E4FB0000000000000132
+t1307960571
+s306
 
 N/Users/jouni/Documents/Work/Personal/Tasku/app/app.js
 c000000004DE3282E000000000000021F
@@ -108,7 +108,7 @@ t1306732736
 s349
 
 N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
-t1307393377
+t1307991116
 s102
 
 N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist
@@ -136,12 +136,12 @@ t1307307809
 s270157
 
 N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt
-t1307390972
-s16630
+t1307968393
+s16566
 
 N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app
-t1307393377
-s272
+t1307991116
+s306
 
 N/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/app.js
 t2
@@ -249,7 +249,7 @@ s986
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies329086177#329086177#0(120"[WARN]warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_641(22@113"warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_64329086177#18446744073709551615#0#0(1@0"0(0#1#0"8609143936#0"0#
+lSLF07#2@18"Check dependencies329683916#329683916#0(120"[WARN]warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_641(22@113"warning: no rule to process file '$(PROJECT_DIR)/server.js' of type sourcecode.javascript for architecture x86_64329683916#18446744073709551615#0#0(1@0"0(0#1#0"8607394624#0"0#
 
 CCompileC build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/MainWindowDelegate.o /Users/jouni/Documents/Work/Personal/Tasku/MainWindowDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s328774800.183824
@@ -304,13 +304,13 @@ xTasku.icns
 lSLF07#2@15"Copy Tasku.icns329000609#329000609#0(0"0(0#0#53"/Users/jouni/Documents/Work/Personal/Tasku/Tasku.icns8598133792#350"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/Tasku.icns /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
 
 CCpResource build/Debug/Tasku.app/Contents/Resources/app app
-s329086177.122740
-e329086177.166030
+s329683916.707768
+e329683916.737696
 r1
 xCpResource
 xbuild/Debug/Tasku.app/Contents/Resources/app
 xapp
-lSLF07#2@8"Copy app329086177#329086177#0(0"0(0#0#46"/Users/jouni/Documents/Work/Personal/Tasku/app8607212544#343"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/app /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
+lSLF07#2@8"Copy app329683916#329683916#0(0"0(0#0#46"/Users/jouni/Documents/Work/Personal/Tasku/app8606849920#343"    cd /Users/jouni/Documents/Work/Personal/Tasku    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jouni/Documents/Work/Personal/Tasku/app /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources0#
 
 CCpResource build/Debug/Tasku.app/Contents/Resources/app.js app/app.js
 r0
@@ -409,15 +409,15 @@ xx86_64
 lSLF07#2@90"Link /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku328774800#328774800#0(0"0(0#0#0"8621210848#597"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -filelist /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Objects-normal/x86_64/Tasku.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -framework WebKit -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/MacOS/Tasku0#
 
 COSACompile TaskuAppDelegate.applescript
-s329083771.152479
-e329083772.083736
+s329661193.073169
+e329661193.288511
 r1
 xOSACompile
 xTaskuAppDelegate.applescript
-o2011-06-06 23:09:31.751 osacompile[27555:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o2011-06-13 15:33:13.184 osacompile[2074:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
 o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
 oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
-lSLF07#2@36"Compile TaskuAppDelegate.applescript329083771#329083772#0(546"2011-06-06 23:09:31.751 osacompile[27555:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#0"8609316640#230"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/osacompile -l AppleScript -d -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt TaskuAppDelegate.applescript0#
+lSLF07#2@36"Compile TaskuAppDelegate.applescript329661193#329661193#0(545"2011-06-13 15:33:13.184 osacompile[2074:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#0"31525614006435940#230"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/osacompile -l AppleScript -d -o /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Resources/TaskuAppDelegate.scpt TaskuAppDelegate.applescript0#
 
 CProcessInfoPlistFile /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app/Contents/Info.plist Tasku-Info.plist
 s328738138.802443
@@ -442,10 +442,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile Tasku_Prefix.pch328688388#328688408#0(0"0(0#0#59"/Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch8594945408#1373"    cd /Users/jouni/Documents/Work/Personal/Tasku    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-generated-files.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-own-target-headers.hmap -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-all-target-headers.hmap -iquote /Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/Tasku-project-headers.hmap -F/Users/jouni/Documents/Work/Personal/Tasku/build/Debug -I/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/include -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources/x86_64 -I/Users/jouni/Documents/Work/Personal/Tasku/build/Tasku.build/Debug/Tasku.build/DerivedSources -c /Users/jouni/Documents/Work/Personal/Tasku/Tasku_Prefix.pch -o /var/folders/cl/clSCgRqJFTKWIboSJOICl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tasku_Prefix-dpfokbzbvndaftcrqbbkdacqgbis/Tasku_Prefix.pch.gch0#
 
 CTouch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
-s329086177.166629
-e329086177.175177
+s329683916.738286
+e329683916.743185
 r1
 xTouch
 x/Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app
-lSLF07#2@70"Touch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app329086177#329086177#0(0"0(0#0#0"8606357536#137"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/touch -c /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app0#
+lSLF07#2@70"Touch /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app329683916#329683916#0(0"0(0#0#0"8605775264#137"    cd /Users/jouni/Documents/Work/Personal/Tasku    /usr/bin/touch -c /Users/jouni/Documents/Work/Personal/Tasku/build/Debug/Tasku.app0#
 

@@ -66,7 +66,7 @@ script TaskuAppDelegate
 		
 		delay 2
 		
-		tell ourWebView to setMainFrameURL_("http://127.0.0.1:" & node_port)
+		--tell ourWebView to setMainFrameURL_("http://127.0.0.1:" & node_port)
 		
 	end applicationWillFinishLaunching_
 	

@@ -1,9 +1,10 @@
 var seep = require("seep")
-    data = require("./data")
-    sidebar = require("./sidebar").sidebar
-    content = require("./content").content
-    tasks_view = require("./views/tasks").view
+  , data = require("./data")
+  , sidebar = require("./sidebar").sidebar
+  , content = require("./content").content
+  , tasks_view = require("./views/tasks").view
 
+  , syncServer = require("./sync-server")
 
 exports.app = seep.Application.extend({
 	
@@ -11,17 +12,14 @@ exports.app = seep.Application.extend({
 		this._super(APP_NAME)
 		this.add(sidebar)
 		this.add(content)
-				
+		
+		var app = this	
 		User.findOne({}, function(err, user) {
 			if(user) {
 				global.USER = user
 			} else {
-				global.USER = new User({
-				    firstname : "Jouni"
-				  , lastname  : "Koivuviita"
-				  , email     : "jouni@vaadin.com"
-				})
-				global.USER.save()
+				var window = require("./views/new-user-window").view
+				app.add(window)		
 			}
 		})
 		
